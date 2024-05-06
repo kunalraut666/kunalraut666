@@ -1,8 +1,7 @@
-![Alt text](loop.gif "inifinity")<br/>
-
 # 💫 About Me:
 🔭 I’m currently working on React.js projects at Prodapt Solutions, leveraging my experience in Drupal and Python projects.<br><br>👯 I’m looking to collaborate on React.js projects or any innovative software development initiatives where my skills in Drupal, Python, and React.js can be put to good use.<br><br>🤝 I’m looking for help with advanced React.js concepts and best practices to enhance my expertise further in this technology stack.<br><br>🌱 I’m currently learning advanced techniques in React.js to stay updated with the latest trends and optimize my development process.<br><br>💬 Ask me about my experience transitioning from Drupal and Python to React.js development, or any challenges I faced during this transition period.<br><br>⚡ Fun fact: When I'm not coding, you can find me strumming away on my guitar 🎸 or diving into virtual worlds as an avid gamer 🎮.
 
+![Alt text](loop.gif "inifinity")<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100006930379345) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunalraut489) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kunal-raut-9630bb163/) 
