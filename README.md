@@ -1,5 +1,3 @@
-![loop](https://github.com/kunalraut666/kunalraut666/assets/68915559/19ca851e-a891-4b03-80c0-4f9ef86353fc)
-
 # 💫 About Me:
 🔭 I’m currently working on React.js projects at Prodapt Solutions, leveraging my experience in Drupal and Python projects.<br><br>👯 I’m looking to collaborate on React.js projects or any innovative software development initiatives where my skills in Drupal, Python, and React.js can be put to good use.<br><br>🤝 I’m looking for help with advanced React.js concepts and best practices to enhance my expertise further in this technology stack.<br><br>🌱 I’m currently learning advanced techniques in React.js to stay updated with the latest trends and optimize my development process.<br><br>💬 Ask me about my experience transitioning from Drupal and Python to React.js development, or any challenges I faced during this transition period.<br><br>⚡ Fun fact: When I'm not coding, you can find me strumming away on my guitar 🎸 or diving into virtual worlds as an avid gamer 🎮.
 
@@ -22,5 +20,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kunalraut666&icon=7&color=3)](https://visitcount.itsvg.in)
+
+![loop](https://github.com/kunalraut666/kunalraut666/assets/68915559/db2841d4-b924-4eb3-8f06-3c55fa1b67ff)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
