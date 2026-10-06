@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-label="About Kunal Raut" preserveAspectRatio="xMidYMid meet">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#247bff"/><stop offset="1" stop-color="#ff354f"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#247bff" stop-opacity=".26"/><stop offset="1" stop-color="#247bff" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#6f82a6" opacity=".13"/></pattern>
+<style><![CDATA[.sans{font-family:Arial,Helvetica,sans-serif} .mono{font-family:Consolas,Menlo,monospace} .title{font-weight:800;letter-spacing:-1px} .muted{fill:#9aa7bd} .small{font-size:15px}]]></style>
+</defs>
+<rect width="100%" height="100%" rx="28" fill="#070b16"/>
+<rect width="100%" height="100%" rx="28" fill="url(#dots)"/>
+<text x="68" y="78" class="sans small" fill="#247bff" font-weight="700">01 / ABOUT + LIFE</text>
+<text x="68" y="132" class="sans title" font-size="44" fill="#f4f7fb">ENGINEERING WITH A CURIOUS SIDE.</text>
+<text x="68" y="176" class="sans" font-size="20" fill="#9aa7bd">Backend systems, automation, AI experiments — and time away from the terminal.</text>
+<g class="sans"><rect x="68" y="222" width="510" height="210" rx="22" fill="#0d1424" stroke="#1d3152"/>
+<text x="96" y="258" font-size="16" fill="#54c7ff" font-weight="700">CAPABILITIES</text>
+<text x="96" y="296" font-size="20" fill="#f4f7fb">• REST APIs &amp; backend services</text><text x="96" y="330" font-size="20" fill="#f4f7fb">• Kafka &amp; event-driven workflows</text><text x="96" y="364" font-size="20" fill="#f4f7fb">• Elasticsearch &amp; data pipelines</text><text x="96" y="398" font-size="20" fill="#f4f7fb">• AI / RAG / vector-search exploration</text></g>
+<g class="sans"><rect x="610" y="222" width="522" height="210" rx="22" fill="#0b1220" stroke="#1d3152"/>
+<g id="s1"><text x="642" y="258" font-size="16" fill="#ff354f" font-weight="700">OFFLINE MODE / 01</text><text x="642" y="308" font-size="34" fill="#f4f7fb" font-weight="800">🎮 GAMING</text><text x="642" y="344" font-size="18" fill="#9aa7bd">Roblox • WWE 2K24 • GTA</text></g>
+<g id="s2" opacity="0"><text x="642" y="258" font-size="16" fill="#ff354f" font-weight="700">OFFLINE MODE / 02</text><text x="642" y="308" font-size="34" fill="#f4f7fb" font-weight="800">🎸 GUITAR</text><text x="642" y="344" font-size="18" fill="#9aa7bd">Music, practice and mashup ideas</text></g>
+<g id="s3" opacity="0"><text x="642" y="258" font-size="16" fill="#ff354f" font-weight="700">OFFLINE MODE / 03</text><text x="642" y="308" font-size="34" fill="#f4f7fb" font-weight="800">🏐 VOLLEYBALL</text><text x="642" y="344" font-size="18" fill="#9aa7bd">A little competition after coding</text></g>
+<rect x="642" y="390" width="430" height="4" rx="2" fill="#24314a"/><rect x="642" y="390" width="143" height="4" rx="2" fill="#247bff"><animate attributeName="x" values="642;785;928;642" dur="12s" repeatCount="indefinite"/></rect>
+</g>
+<animate href="#s1" attributeName="opacity" values="1;1;0;0;0;0;1" keyTimes="0;.30;.33;.63;.66;.96;1" dur="12s" repeatCount="indefinite"/>
+<animate href="#s2" attributeName="opacity" values="0;0;1;1;0;0;0" keyTimes="0;.30;.33;.63;.66;.96;1" dur="12s" repeatCount="indefinite"/>
+<animate href="#s3" attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;.30;.33;.63;.66;.96;1" dur="12s" repeatCount="indefinite"/>
+</svg>
